@@ -1,0 +1,12 @@
+Install Matlab
+Control system toolbox
+Econometrics toolbox
+Statistics and machine learning toolbox
+Simulink
+Download the folder
+Open the AnimationOutreachKeyProposal.m and run
+Try it 30 times and then manually close the animation
+Hit up button to start blue car
+Hit down button to activate braking whenever the graph turns yellow
+Don’t hit down button unless the animation tells you to do so.
+Wait for the animation to reload don’t hit up button twice before it automatically reloads.
